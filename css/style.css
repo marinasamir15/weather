@@ -1,13 +1,14 @@
 .nav-item .nav-link:hover{
 color:#2dbaf7 !important;
-border-width: 2px;
 border-color: #2dbaf7;
-border-style: solid;
-border-radius: 20pt;
 }
 .nav-item .nav-link{
     transition: all 0.2s;
     color:#fff !important;
+    border-width: 2px;
+    border-color: transparent;
+     border-style: solid;
+    border-radius: 20pt;
 }
 .nav-link.active{
     color: #2dbaf7 !important;
